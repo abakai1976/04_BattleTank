@@ -1,2 +1,2 @@
 # 04_BattleTank
-An open-world head to head tank fight with simple AI and advanced control system in Unreal 4 (Unreal Course)
+An open-world head to head tank fight with simple AI and advanced control system in Unreal 4 made while following the Complete Unreal developer course on udemy
