@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BattleTank-769.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Leigh\Unreal Engine\Udemy Course\Section_4_Battle_Tank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Leigh\Unreal Engine\Udemy Course\Section_4_Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.cpp.obj"
+"D:\Leigh\Unreal Engine\Udemy Course\Section_4_Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.cpp.obj"
+"D:\Leigh\Unreal Engine\Udemy Course\Section_4_Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.init.gen.cpp.obj"
+"D:\Leigh\Unreal Engine\Udemy Course\Section_4_Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTankGameModeBase.gen.cpp.obj"
+"D:\Leigh\Unreal Engine\Udemy Course\Section_4_Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\PCLaunch.rc.res"
+/OUT:"D:\Leigh\Unreal Engine\Udemy Course\Section_4_Battle_Tank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\UE4Editor-BattleTank-769.lib"
